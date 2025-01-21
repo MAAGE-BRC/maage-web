@@ -1,1 +1,1 @@
-# The Midwest Alliance for Applied Genomic Epidemiology Web Application
+# The MAAGE Web Application
